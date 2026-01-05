@@ -30,9 +30,10 @@ twitter_username: LassGalsen
 github_username:  LassCissoko
 
 # Build settings
-theme: minima
+theme: jekyll-theme-console
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
