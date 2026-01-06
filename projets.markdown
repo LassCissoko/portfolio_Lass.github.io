@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Projets
-permalink: Home/Projets/
+permalink: home/projets/
 ---
 Sur cette page vous pourrez visualisez mes derniers projets ainsi que le code source sur Github
 
